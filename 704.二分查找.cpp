@@ -9,7 +9,7 @@ class Solution {
 public:
     int search(vector<int>& nums, int target) 
     {
-        
+        cout << "第一次尝试" << endl;
     }
 };
 // @lc code=end
